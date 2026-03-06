@@ -1,0 +1,8 @@
+Django
+requests
+google-auth
+google-auth-oauthlib
+python-dotenv
+firebase-admin
+whitenoise
+dj-database-url
